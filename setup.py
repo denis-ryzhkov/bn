@@ -39,7 +39,7 @@ Result::
      0.0020    loop
     #
     # This config is default in bn<=0.1.4:
-    # Bn(total_key='TOTAL', format='{seconds:>10.4f}    {key}', sep='\n')
+    # Bn(total_key='TOTAL', format='{seconds:>10.4f}    {key}', sep='\\n')
 
 Install::
 
